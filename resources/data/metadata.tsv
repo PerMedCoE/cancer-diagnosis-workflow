@@ -1,0 +1,312 @@
+ighv_status	epigenetic	exome_capture	donor_sex	donor_vital_status	disease_status_last_followup	prior_malignancy
+001-0002-09TR	UNMUT	n-CLL	SureSelect Human All Exon	male	deceased	complete remission	no
+002-0010-05TR	UNMUT	n-CLL	0	female	deceased	stable	unknown
+003-0005-08TR	MUT	i-CLL	SureSelect Human All Exon	male	alive	complete remission	unknown
+004-0012-06TR	MUT	m-CLL	SureSelect Human All Exon	female	alive	progression	no
+005-0015-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	no
+007-0400-01TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+008-0023-01TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+009-0026-03TR	UNMUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	yes
+010-0028-06TR	UNMUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male		complete remission	no
+012-04-1TR	UNMUT	n-CLL	SureSelect Human All Exon	female	alive	progression	no
+015-0038-05TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	no
+016-0040-03TR	UNMUT	n-CLL	SureSelect Human All Exon	male	alive	partial remission	no
+017-0042-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+018-0045-01TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	
+019-01-1TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+023-0056-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	partial remission	no
+024-04-1TR	NA	NA	NA	male	alive		
+025-0059-02TR	UNMUT	n-CLL	0	female	alive	partial remission	no
+026-0061-02TR	UNMUT	n-CLL	0	male	deceased	stable	no
+027-0063-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	no
+029-0065-02TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	partial remission	
+030-0066-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	no
+032-0069-02TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	stable	unknown
+037-0074-02TR	NA	NA	NA	female	alive	stable	
+039-0076-05TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	no
+040-0088-02TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	complete remission	
+041-0078-02TR	MUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	
+043-01-4TR	NA	NA	NA	male	deceased	stable	
+044-0095-01TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	no
+048-0089-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	no
+049-0086-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	complete remission	
+051-0099-06TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+052-0103-04TR	UNMUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+053-0104-03TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	
+056-01-2TR	UNMUT	n-CLL	0	female	deceased	relapse	unknown
+058-0121-04TR	UNMUT	n-CLL	SureSelect XT Human All Exon v4+UTRs	male	alive	complete remission	unknown
+060-0123-03TR	MUT	m-CLL	SureSelect XT Human All Exon v4+UTRs	female	deceased	stable	
+063-0127-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	no
+064-0128-08TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	no
+082-02-2TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	deceased	partial remission	no
+084-05-02TR	MUT	m-CLL	0	male	alive	stable	no
+090-02-3TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	progression	no
+100-02-3TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+1056-01-03TR	MUT	m-CLL	0	male	alive	stable	
+1059-01-03TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	partial remission	
+1062-01-03TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+1076-03-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon v4+UTRs	male	alive	complete remission	
+1078-01-04TR	UNMUT	m-CLL	0	female	alive	stable	
+1098-01-03TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+110-0218-06TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+1101-01-04TR	UNMUT	n-CLL	0	female	alive	complete remission	
+115-1917-03TR	MUT	m-CLL	SureSelect XT Human All Exon v4+UTRs	male	alive	stable	no
+1161-01-02TR	MUT	i-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1162-01-04TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1163-01-03TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1164-01-03TR	MUT	i-CLL	0	female	alive	stable	
+1165-01-02TR	MUT	i-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	complete remission	
+1166-01-03TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+1167-01-02TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	stable	
+1168-01-03TR	MUT	i-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	stable	
+1169-01-03TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+1175-01-04TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1177-01-04TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1178-01-05TR	MUT	m-CLL	SureSelect XT Human All Exon v4+UTRs	male	alive	stable	
+1179-01-03TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+1181-01-06TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	partial remission	
+1183-01-06TR	UNMUT	n-CLL	SureSelect XT Human All Exon v4+UTRs	male	alive	partial remission	
+1184-01-05TR	MUT	i-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1185-01-06TR	MUT	m-CLL	SureSelect XT Human All Exon v4+UTRs	male	alive	stable	
+1191-01-04TR	UNMUT	n-CLL	0	female	deceased	progression	
+1192-01-04TR	UNMUT	n-CLL	0	male	deceased	progression	
+1220-01-06TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+122-06-02TR	MUT	m-CLL	0	male	alive	complete remission	no
+1221-01-05TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+1222-01-07TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1223-01-05TR	MUT	i-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	stable	
+1224-01-03TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	stable	
+1228-01-05TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+124-01-2TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+125-01-4TR	MUT	m-CLL	0	male	alive	stable	no
+1267-01-07TR	UNMUT	i-CLL	0	female	alive	stable	
+1276-01-06TR	MUT	m-CLL	0	female	alive	stable	
+128-02-7TR	UNMUT	i-CLL	0	male	alive	progression	no
+128-06-01TR	UNMUT	i-CLL	0	male	alive	progression	no
+1292-01-05TR	MUT	m-CLL	0	male	alive	stable	
+1297-01-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon v4+UTRs	female	alive	complete remission	
+131-02-7TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1319-01-05TR	MUT	m-CLL	SureSelect XT Human All Exon v4+UTRs	female	alive	stable	
+1323-01-04TR	MUT	m-CLL	SureSelect XT Human All Exon v4+UTRs	female	alive	partial remission	
+1338-01-03TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1339-01-06TR	Undetermined	m-CLL	0	male	alive	stable	
+134-01-1TR	UNMUT	n-CLL	0	male	alive	complete remission	no
+1343-01-06TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1344-01-05TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	complete remission	
+1353-01-02TR	MUT	m-CLL	0	female	alive	complete remission	
+1360-01-03TR	MUT	m-CLL	0	female	alive	stable	
+136-02-5TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+137-03-4TR	MUT	m-CLL	0	male	alive	stable	no
+1371-01-02TR	UNMUT	n-CLL	0	male	alive	complete remission	
+138-03-3TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	deceased	progression	unknown
+1384-01-05TR	UNMUT	n-CLL	0	male	alive	complete remission	
+1386-01-05TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	complete remission	
+139-08-01TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	yes
+1403-01-02TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	complete remission	
+1407-01-05TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	stable	
+1413-01-04TR	MUT	i-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	stable	
+1418-01-04TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+142-06-02TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+1423-01-05TR	MUT	m-CLL	0	male	alive	stable	
+1430-01-05TR	UNMUT	n-CLL	0	male	alive	complete remission	
+1432-01-06TR	UNMUT	n-CLL	0	female	alive	complete remission	
+1437-03-03TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1441-01-06TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1442-01-04TR	UNMUT	i-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1446-01-04TR	MUT	i-CLL	0	male	alive	complete remission	
+1447-01-04TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	stable	
+1448-01-04TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	progression	
+145-01-2TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	unknown
+1452-01-06TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1459-01-06TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+146-01-6TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+1462-01-06TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1465-01-05TR	MUT	i-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1477-01-05TR	MUT	m-CLL	0	female	alive	progression	
+1479-01-04TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	stable	
+148-07-01TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	no
+1507-01-05TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	stable	
+151-02-9TR	MUT	m-CLL	0	male	deceased	stable	unknown
+1512-01-05TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	stable	
+152-01-5TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+1525-01-04TR	MUT	i-CLL	0	male	alive	complete remission	
+1533-01-06TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1534-01-05TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	progression	
+1535-01-05TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+154-01-4TR	NA	NA	NA	female	alive	partial remission	
+1543-01-03TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+1545-01-02TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+155-01-2TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	deceased	progression	
+156-01-2TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+157-01-3TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	partial remission	unknown
+159-01-3TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	
+165-04-02TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+166-01-6TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	no
+168-02-8TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+170-01-6TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+171-01-3TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+172-01-3TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+173-01-4TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+174-01-4TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+175-01-4TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+176-01-3TR	UNMUT	n-CLL	0	male	deceased	partial remission	no
+177-01-10TR	UNMUT	n-CLL	0	female	alive	complete remission	unknown
+179-10-02TR	MUT	m-CLL	0	male	alive	progression	no
+181-01-4TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	no
+182-01-7TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	
+184-01-5TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+185-01-8TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+186-01-8TR	UNMUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+188-01-13TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	no
+189-01-3TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+191-01-8TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+192-01-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	complete remission	unknown
+193-01-3TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+194-01-4TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+195-01-11TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+197-01-6TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+199-06-02TR	MUT	i-CLL	SureSelect XT Human All Exon v4+UTRs	male	alive	partial remission	no
+264-01-14TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	partial remission	
+267-01-9TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+270-01-5TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	
+274-01-8TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+275-01-3TR	UNMUT	i-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	progression	
+276-01-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+277-03-01TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	unknown
+278-01-8TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	no
+280-01-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+282-01-17TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	deceased	stable	unknown
+283-05-03TR	MUT	m-CLL	0	female	alive	complete remission	yes
+288-01-8TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+290-1950-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	deceased	progression	unknown
+291-03-5TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+294-01-6TR	UNMUT	n-CLL	0	male	deceased	progression	no
+296-01-9TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	no
+297-04-01TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+306-01-5TR	UNMUT	n-CLL	0	male	deceased	complete remission	no
+308-01-3TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	unknown
+316-01-13TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+318-01-3TR	UNMUT	n-CLL	0	female	alive	complete remission	no
+319-01-2TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+322-01-2TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+323-01-2TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+324-01-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+325-01-7TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+326-01-2TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	deceased	partial remission	
+342-01-4TR	MUT	m-CLL	0	male	alive	complete remission	yes
+343-03-7TR	MUT	i-CLL	0	male	deceased	stable	no
+350-01-6TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	partial remission	
+353-03-3TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+356-01-4TR	UNMUT	n-CLL	0	male	deceased	progression	unknown
+358-01-3TR	UNMUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	stable	unknown
+365-1951-02TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased		
+367-01-8TR	MUT	m-CLL	0	male	alive	stable	no
+371-01-10TR	UNMUT	n-CLL	0	female	alive	stable	unknown
+372-01-11TR	MUT	m-CLL	0	male	alive	stable	no
+373-01-8TR	MUT	m-CLL	0	female	alive	stable	
+381-01-5TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	
+384-04-02TR	UNMUT	n-CLL	SureSelect XT Human All Exon v4+UTRs	female	alive	complete remission	
+386-01-10TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	progression	unknown
+393-01-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	unknown
+397-01-2TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+435-01-8TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	no
+442-02-4TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	partial remission	no
+447-03-03TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+473-02-4TR	MUT	m-CLL	0	female	alive	stable	no
+477-02-10TR	MUT	m-CLL	0	male	alive	stable	unknown
+510-03-04TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+523-02-6TR	MUT	m-CLL	0	female	alive	stable	no
+558-01-19TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+560-01-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+561-01-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	stable	
+564-01-7TR	MUT	m-CLL	0	male	alive	complete remission	unknown
+565-01-6TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+566-01-13TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+567-01-5TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	
+568-01-5TR	NA	NA	NA	male	deceased	complete remission	
+577-01-5TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	complete remission	unknown
+578-01-5TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+580-01-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+584-01-3TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+585-01-5TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+588-01-11TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+593-01-3TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+594-01-3TR	MUT	-	0	female	deceased	progression	unknown
+595-01-2TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	
+596-01-2TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+618-1503-05TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	no
+626-02-4TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+628-08-01TR	MUT	m-CLL	0	male	alive	stable	no
+629-07-02TR	MUT	i-CLL	SureSelect XT Human All Exon v4+UTRs	male	alive	complete remission	
+642-1991-02TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	complete remission	
+654-02-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	partial remission	unknown
+664-02-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	
+676-01-2TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+677-07-02TR	UNMUT	n-CLL	SureSelect XT2 Human All Exon v4+UTRs	female	alive	progression	no
+680-1992-02TR	UNMUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	deceased	complete remission	
+684-02-3TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	unknown
+689-02-12TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+715-03-5TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	
+723-03-3TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	unknown
+725-02-4TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+732-02-10TR	Undetermined	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	progression	
+745-06-02TR	MUT	m-CLL	0	female	deceased	stable	unknown
+749-02-12TR	UNMUT	n-CLL	0	male		complete remission	unknown
+753-01-10TR	UNMUT	i-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	partial remission	
+754-01-11TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+761-01-3TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	no
+763-01-13TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+765-01-2TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+766-01-6TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+767-01-10TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+769-01-7TR	MUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	progression	
+773-01-6TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+776-01-5TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	complete remission	unknown
+777-01-5TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+778-01-5TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	
+780-01-2TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+783-01-14TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	complete remission	unknown
+784-01-13TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	partial remission	
+788-01-12TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+794-01-12TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+795-01-5TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	no
+800-01-6TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+801-01-11TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+802-01-13TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	alive		unknown
+804-01-2TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	no
+805-01-12TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	progression	
+811-01-3TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+812-01-6TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	deceased	progression	
+814-01-11TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+815-01-4TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+820-01-15TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	progression	
+821-01-13TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	complete remission	
+832-01-4TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	unknown
+841-01-11TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+842-01-9TR	MUT	i-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+853-01-10TR	UNMUT	n-CLL	0	male	deceased	partial remission	
+854-01-8TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+857-01-5TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+859-01-6TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+861-01-14TR	MUT	m-CLL	SureSelect XT2 Human All Exon v4+UTRs	male	alive	stable	
+862-01-12TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+873-01-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+874-01-6TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+875-01-5TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	female	deceased	progression	
+878-01-6TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	partial remission	
+880-01-9TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+881-01-7TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+882-01-12TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+884-01-10TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	female	alive	stable	
+885-01-10TR	MUT	m-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+886-01-10TR	UNMUT	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	stable	
+887-01-10TR	Undetermined	n-CLL	SureSelect XT Human All Exon 50 Mb	male	alive	progression	
+943-01-1R	NA	NA	NA	male			
+943-01-2R	NA	NA	NA	male			
+943-01-3R	NA	NA	NA	male			
+944-01-1R	NA	NA	NA	female			
+944-01-2R	NA	NA	NA	female			
+944-01-3R	NA	NA	NA	female			
+948-01-1R	NA	NA	NA	female			
+948-01-2R	NA	NA	NA	female			
+948-01-3R	NA	NA	NA	female			
